@@ -24,7 +24,30 @@ import SiteFooter from '@/components/partials/footer.vue';
     SiteFooter,
   },
 })
-export default class DefaultLayout extends Vue {}
+export default class DefaultLayout extends Vue {
+  head() {
+    return {
+      script: [
+        {
+          hid: 'ga-script',
+          async: true,
+          src: `https://www.googletagmanager.com/gtag/js?id=G-4FL5FJE44H`,
+        },
+        {
+          hid: 'ga-config',
+          innerHTML: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+              dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', 'G-4FL5FJE44H');
+          `,
+        },
+      ],
+    };
+  }
+}
 </script>
 
 <style lang="scss">

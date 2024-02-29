@@ -1,10 +1,10 @@
 {
   "title": "Homev",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, Welcome to out Blog\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "welcomeText": "# Yo, Welcome to out Blog\n\nWelcome to my Blog! 🌟 Passionate about Indian cuisine and armed with culinary expertise, I offer top-notch recipe creations and culinary consultations tailored just for you. With a background in delivering flavorful and authentic Indian recipes, I bring a blend of creativity and tradition to your kitchen. As your dedicated culinary partner, I ensure a seamless experience, turning your cooking journey into a delightful adventure. Let's embark on a flavorful exploration together!",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Welcome to my Blog! 🌟 Passionate about Indian cuisine and armed with culinary expertise, I offer top-notch recipe creations and culinary consultations tailored just for you. With a background in delivering flavorful and authentic Indian recipes, I bring a blend of creativity and tradition to your kitchen. As your dedicated culinary partner, I ensure a seamless experience, turning your cooking journey into a delightful adventure. Let's embark on a flavorful exploration together!",
   "seoMetaImage": ""
 }
